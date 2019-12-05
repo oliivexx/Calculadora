@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checkable="false"
+            android:title="Standard" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Scientific" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="Mortgage" />
+        <item
+            android:id="@+id/nav_tools"
+            android:title="Currency" />
+
+        <item
+            android:id="@+id/nav_tools2"
+            android:title="Lenght" />
+
+        <item
+            android:id="@+id/nav_tools3"
+            android:title="Area" />
+
+        <item
+            android:id="@+id/nav_tools4"
+            android:title="Volume" />
+
+        <item
+            android:id="@+id/nav_tools5"
+            android:title="Area" />
+
+        <item
+            android:id="@+id/nav_tools6"
+            android:title="Temperature" />
+
+
+    </group>
+
+
+
+</menu>
